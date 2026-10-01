@@ -3,7 +3,12 @@
   "displayName": "Look, Don't Touch",
   "publisher": "edmccard",
   "description": "Files outside a workspace are read-only",
-  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/edmccard/look-dont-touch.git"
+  },
+  "license": "MIT",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.138.0"
   },
